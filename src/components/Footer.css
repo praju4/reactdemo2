@@ -1,0 +1,8 @@
+footer {
+    background-color: grey;
+    color: whitesmoke;
+    padding: 0.5rem;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+  }
